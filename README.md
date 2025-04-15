@@ -17,12 +17,12 @@ This project applies Mixed Integer Programming (MIP) to optimize the allocation 
 - **Real-World Application**: This approach ensures a scalable, real-time solution that can be applied to other production environments with similar constraints.
 
 - **Optimization Model (Python Code)**:
-[T-shirt Printing MIP Model]([./MIP_Model.py](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Python_MIP%20CBC%20Solver%20with%20Pyomo.ipynb)
+[T-shirt Printing MIP Model](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Python_MIP%20CBC%20Solver%20with%20Pyomo.ipynb)
 - **Presentation**:
-[MIP Model Presentation]([./MIP_T-shirt Printing Company VF.pptx](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Optimizing%20Design%20Allocation%20using%20Pyomo.pdf))
+[MIP Model Presentation](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Optimizing%20Design%20Allocation%20using%20Pyomo.pdf)
 
 - **MIP Poster**:
-![MIPP](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/MIP%20Poster%20Optimization.pdf)
+![MIPP](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/61a75d8191bde4b205b4cbc0be244a20d04a8472/MIP%20Optimization%20ScreenPrint/MIP%20Poster%20Optimization.pdf)
 
 ## Insights
 
@@ -41,13 +41,12 @@ This project applies Mixed Integer Programming (MIP) to optimize the allocation 
 | **Visualization**       | Visual outputs for optimal machine assignments and profits               |
 
 ## Steps Taken
-
-### Step 1. Problem Definition
-### Step 2. Data Collection
-### Step 3. Model Development
-### Step 4. Optimization Execution
-### Step 5. Comparison with Manual Assignment
-### Step 6. Output Evaluation
+#### Step 1. Problem Definition
+#### Step 2. Data Collection
+#### Step 3. Model Development
+#### Step 4. Optimization Execution
+#### Step 5. Comparison with Manual Assignment
+#### Step 6. Output Evaluation
 
 ## Conclusions
 The MIP optimization model proved to be highly effective in improving the production planning process by maximizing profit and ensuring efficient machine utilization. The model not only outperformed manual assignment in profitability but also optimized the cost structure by balancing setup and ink costs.
