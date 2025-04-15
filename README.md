@@ -24,7 +24,7 @@ This project applies Mixed Integer Programming (MIP) to optimize the allocation 
 [MIP Model Presentation](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Optimizing%20Design%20Allocation%20using%20Pyomo.pdf)
 
 - **MIP Poster**:
-![MIPP](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/afafd1bb7c3ab4d2b5a39e325ec245e39299dc3c/MIP%20Optimization%20ScreenPrint/MIP%20Poster%20Optimization.pdf)
+[MIPP](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/afafd1bb7c3ab4d2b5a39e325ec245e39299dc3c/MIP%20Optimization%20ScreenPrint/MIP%20Poster%20Optimization.pdf)
 
 ---
 ## Insights
