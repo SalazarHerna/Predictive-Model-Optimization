@@ -2,6 +2,15 @@
 This project applies Mixed Integer Programming (MIP) to optimize the allocation of designs to printing machines for a Spring 2025 collection. The goal is to maximize profit while balancing machine workloads, minimizing costs, and meeting production deadlines. 
 
 ---
+- **Optimization Model (Python Code)**:
+[T-shirt Printing MIP Model](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Python_MIP%20CBC%20Solver%20with%20Pyomo.ipynb)
+- **Presentation**:
+[MIP Model Presentation](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Optimizing%20Design%20Allocation%20using%20Pyomo.pdf)
+
+- **MIP Poster**:
+[MIPP](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/afafd1bb7c3ab4d2b5a39e325ec245e39299dc3c/MIP%20Optimization%20ScreenPrint/MIP%20Poster%20Optimization.pdf)
+
+---
 ## Objectives
 
 - Develop an MIP model to assign designs to machines, maximizing profit while adhering to constraints.
@@ -16,15 +25,6 @@ This project applies Mixed Integer Programming (MIP) to optimize the allocation 
 - **Profit Maximization**: Compared to manual assignment, the optimized model increases overall profit by $13,759.87.
 - **Cost Management**: The model optimizes variable costs such as setup and ink costs, leading to a reduction in overall costs while maintaining high output.
 - **Real-World Application**: This approach ensures a scalable, real-time solution that can be applied to other production environments with similar constraints.
-
----
-- **Optimization Model (Python Code)**:
-[T-shirt Printing MIP Model](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Python_MIP%20CBC%20Solver%20with%20Pyomo.ipynb)
-- **Presentation**:
-[MIP Model Presentation](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Optimizing%20Design%20Allocation%20using%20Pyomo.pdf)
-
-- **MIP Poster**:
-[MIPP](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/afafd1bb7c3ab4d2b5a39e325ec245e39299dc3c/MIP%20Optimization%20ScreenPrint/MIP%20Poster%20Optimization.pdf)
 
 ---
 ## Insights
