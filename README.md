@@ -16,10 +16,13 @@ This project applies Mixed Integer Programming (MIP) to optimize the allocation 
 - **Cost Management**: The model optimizes variable costs such as setup and ink costs, leading to a reduction in overall costs while maintaining high output.
 - **Real-World Application**: This approach ensures a scalable, real-time solution that can be applied to other production environments with similar constraints.
 
-- **Optimization Model (Python Code)**: [T-shirt Printing MIP Model]([./MIP_Model.py](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Python_MIP%20CBC%20Solver%20with%20Pyomo.ipynb)
-- **Presentation**: [MIP Model Presentation]([./MIP_T-shirt Printing Company VF.pptx](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Optimizing%20Design%20Allocation%20using%20Pyomo.pdf))
+- **Optimization Model (Python Code)**:
+[T-shirt Printing MIP Model]([./MIP_Model.py](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Python_MIP%20CBC%20Solver%20with%20Pyomo.ipynb)
+- **Presentation**:
+[MIP Model Presentation]([./MIP_T-shirt Printing Company VF.pptx](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/Optimizing%20Design%20Allocation%20using%20Pyomo.pdf))
 
-- **MIP Poster**: ![MIP P](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/MIP%20Poster%20Optimization.pdf)
+- **MIP Poster**:
+![MIPP](https://github.com/SalazarHerna/Predictive-Model-Optimization/blob/49f96c06388412ed056c68a2012297b629789cba/MIP%20Optimization%20ScreenPrint/MIP%20Poster%20Optimization.pdf)
 
 ## Insights
 
